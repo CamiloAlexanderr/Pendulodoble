@@ -1,0 +1,70 @@
+
+.main-title {
+  margin-bottom: 50px;
+}
+
+.main-title h1 {
+  margin-bottom: 0;
+}
+
+.main-title h2 {
+  margin-top: 0;
+}
+
+.main-title a {
+  text-decoration: none;
+}
+
+
+.project-card {
+  padding: 10px 0;
+  margin-bottom: 20px;
+}
+
+.project-card .card-title {
+  text-decoration: none;
+  color: black;
+}
+
+.project-card h3 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.project-card p {
+  margin-top: 0;
+}
+
+
+.anchor-card {
+  display: block;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+
+.anchor-nav {
+  text-decoration: none;
+  font-weight: 300;
+}
+
+
+.content-wrapper {
+  margin-top: 40px;
+}
+
+
+#devil-button {
+  background-color: #bb0707;
+  color: white;
+  border-radius: 17px;
+  margin-right: 8px;
+  padding: 5px 10px;
+}
+
+
+#pendulum {
+  display: block;
+  margin: 10px auto;
+}
